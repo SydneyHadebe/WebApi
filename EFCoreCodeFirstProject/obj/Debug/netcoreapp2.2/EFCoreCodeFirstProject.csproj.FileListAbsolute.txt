@@ -1,0 +1,13 @@
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\bin\Debug\netcoreapp2.2\EFCoreCodeFirstProject.deps.json
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\bin\Debug\netcoreapp2.2\EFCoreCodeFirstProject.runtimeconfig.json
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\bin\Debug\netcoreapp2.2\EFCoreCodeFirstProject.runtimeconfig.dev.json
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\bin\Debug\netcoreapp2.2\EFCoreCodeFirstProject.dll
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\bin\Debug\netcoreapp2.2\EFCoreCodeFirstProject.pdb
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.RazorAssemblyInfo.cache
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.RazorAssemblyInfo.cs
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.AssemblyInfoInputs.cache
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.AssemblyInfo.cs
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.RazorTargetAssemblyInfo.cache
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.dll
+C:\Users\ABBH224\source\repos\EFCoreCodeFirstProject\obj\Debug\netcoreapp2.2\EFCoreCodeFirstProject.pdb
